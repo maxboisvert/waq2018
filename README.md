@@ -1,4 +1,4 @@
-# Confoo Montreal 2018
+# WAQ 2018 (Conference)
 
 https://webaquebec.org/programmation/scale-search-powered-apps-with-elasticsearch-k8s-and-go
 
